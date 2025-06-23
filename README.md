@@ -14,10 +14,8 @@ I currently have no official work experiences, but I have developed numerous per
 
 - Education at Galileo Galilei Scientific High School, Trento  
   *Expected graduation: June 2028*
-- Currently undertaking the Stanford specializations:  
-  - [Machine Learning Specialization] by Andrew Ng
-  - [Deep Learning Specialization] by Andrew Ng
-- Continuously updating knowledge through various books and resources related to AI and machine learning.
+- Completed the 3-course Machine Learning Specialization by Andrew Ng.
+- Currently continuing my learning through various specializations, courses, and books related to the topic.
 
 ## Computer Skills
 
