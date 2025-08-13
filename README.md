@@ -9,8 +9,8 @@ Through years of personal and individual study, I have acquired skills in progra
 
 ## Work experiences  
 
-- AI Developer – Top Evolution s.r.l.
-      June 2025 – Present
+- AI Developer – Top Evolution s.r.l.  
+     June 2025 – Present
 
 Collaborating on AI development projects, focusing on improving AI automation solutions for businesses. Contributing to the design, implementation, and optimization of machine learning workflows.
 
