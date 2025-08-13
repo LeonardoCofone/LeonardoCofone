@@ -7,9 +7,15 @@
 
 Through years of personal and individual study, I have acquired skills in programming with Python in the field of artificial intelligence, focusing on creating machine learning, deep learning, and NLP algorithms.
 
-## Work Experience
+## Work experiences  
 
-I currently have no official work experiences, but I have developed numerous personal projects and am highly motivated to learn and grow professionally.
+- AI Developer – Top Evolution s.r.l.
+      June 2025 – Present
+
+Collaborating on AI development projects, focusing on improving AI automation solutions for businesses. Contributing to the design, implementation, and optimization of machine learning workflows.
+
+- Developed multiple personal AI projects, applying Machine Learning and Deep Learning techniques.
+Highly motivated to learn, improve, and contribute to innovative solutions.
 
 ## Education and Learning
 
