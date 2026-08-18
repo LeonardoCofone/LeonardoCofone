@@ -41,7 +41,7 @@ modern AI technologies using TensorFlow, PyTorch, and Hugging Face.
 Passionate about creating intelligent systems and continuously
 improving through experimentation, research, and real-world projects.
 ```
-
+ 
 </td>
 </tr>
 </table>
