@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/KAGGLE_PROFILE-334155?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1E293B&color=475569" height="72" />
   </a>
 
-  <a href="https://www.linkedin.com/in/leonardo-cofone-914228361/">
+  <a href="https://www.linkedin.com/in/leonardo-cofone/">
     <img src="https://img.shields.io/badge/LINKEDIN_PROFILE-0F172A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617&color=1E293B" height="72" />
   </a>
 </p>
