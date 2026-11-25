@@ -31,13 +31,15 @@
 ## Professional Profile
 
 ```text
-AI enthusiast and Python developer focused on machine learning, deep learning, computer vision, and NLP.
+AI enthusiast and Python developer focused on machine learning,
+deep learning, computer vision, and NLP.
 
-Through years of personal and independent study, I have built projects, participated in Kaggle competitions,
-and explored modern AI technologies using TensorFlow, PyTorch, and Hugging Face.
+Through years of personal and independent study, I have built
+projects, participated in Kaggle competitions, and explored
+modern AI technologies using TensorFlow, PyTorch, and Hugging Face.
 
-Passionate about creating intelligent systems and continuously improving through experimentation,
-research, and real-world projects.
+Passionate about creating intelligent systems and continuously
+improving through experimentation, research, and real-world projects.
 ```
  
 </td>
